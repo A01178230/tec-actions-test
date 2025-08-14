@@ -11,7 +11,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE: ghcr.io/A01178230/tec-actions-test
+  IMAGE: ghcr.io/a01178230/tec-actions-test
 
 jobs:
   build:
